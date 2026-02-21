@@ -65,11 +65,11 @@ High performance funnels for startups and service businesses.
 ## 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=yupabhishek&show_icons=true&theme=tokyonight&count_private=true" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yupabhishek&layout=compact&theme=tokyonight" />
 </p>
 
 ---
